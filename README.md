@@ -1,7 +1,10 @@
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/source-code.png" width="24" style="vertical-align: middle; margin-right: 4px;" alt="icon" />
+  <span>
+    <img src="https://img.icons8.com/color/48/000000/source-code.png" width="22" style="position: relative; top: 4px;" />
+  </span>
   Diony Rinker
 </h2>
+
 
 **`Software Devoloper`**
 
