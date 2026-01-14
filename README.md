@@ -26,19 +26,7 @@
   📧 | Entre em contato: <a href="mailto:dionyrinker40@gmail.com">dionyrinker40@gmail.com</a>
 </p>
 
- ---
-
-### 🌱 | Principal projeto
-
-  <a href="https://github.com/yDiony/Gardenfy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yDiony&repo=Gardenfy&description_lines_count=2&theme=github_dark" alt="Readme Card" />
-  </a>
-
- ###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDiony&layout=compact&theme=github_dark" alt="Top Langs" />
-  
-  ###
+ 
 
 
 
