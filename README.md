@@ -5,31 +5,33 @@
   Diony Rinker
 </h2>
 
+**`Software Developer`**
 
-**`Software Devoloper`**
+<p>
+Olá! Me chamo Diony, atualmente cursando <b>Engenharia de Software</b>. Sou um desenvolvedor focado em unir estética e funcionalidade através de interfaces modernas e soluções robustas de backend. 
 
-<p>Olá! Me chamo Diony, atualmente cursando Engenharia de Software e aprimorando minhas habilidades na área dev focando em mobile/web. Meu principal interesse em ampliação de conhecimento está sendo estudar automação com IA utilizando python e c++ para jogos.
-
-
+Atualmente, dedico meus estudos ao aprimoramento de experiências <b>Web e Mobile</b> com foco em designs modernos e alta performance, além de desenvolver aplicações empresariais utilizando o ecossistema <b>Oracle</b>.
 </p>
 
-
+### 🛠️ Tech Stack & Especialidades
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
+### 📱 Socials & Contato
 <p align="left">
-  📧 | Entre em contato: <a href="mailto:dionyrinker40@gmail.com">dionyrinker40@gmail.com</a>
+  <a href="https://www.instagram.com/dionyrinker" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:dionyrinker40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
- 
-
-
-
-
-
-
+---
