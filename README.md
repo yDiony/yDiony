@@ -30,7 +30,7 @@ Atualmente, dedico meus estudos ao aprimoramento de experiências <b>Web e Mobil
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="mailto:dionyrinker40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <p>📩 | dionyrinker40@gmail.com</p>
   </a>
 </p>
 
