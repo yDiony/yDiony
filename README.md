@@ -26,9 +26,14 @@ Atualmente, dedico meus estudos ao aprimoramento de experiências <b>Web e Mobil
 
 ### 📱 Socials & Contato
 <p align="left">
-  <a href="https://www.instagram.com/dionyrinker" target="_blank">
+  <a href="https://www.instagram.com/dionyrinker" target='_blank'>
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/dionyrinker" target='_blank'>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br/>
   <a href="mailto:dionyrinker40@gmail.com">
    <p>📩 | dionyrinker40@gmail.com</p>
   </a>
